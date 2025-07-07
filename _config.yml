@@ -1,17 +1,18 @@
 title: "道德经 · 松Song心注本"
 description: "松Song 与 青隐子共修记"
+
+# 站点地址
+url: "https://songsong816.github.io"   # 用户名.github.io
+baseurl: "/daodejing"                 # 项目仓库名；若用 root 站点可设空
+
+# 主题与 Markdown 解析
 theme: minima
 markdown: kramdown
 
-baseurl: ""                      
-url: "https://songsong816.github.io"
 timezone: "Australia/Melbourne"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-title: 道德经 · 松Song心注本
-theme: minima
-markdown: kramdown
-
+  
