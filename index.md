@@ -65,7 +65,7 @@
 
 ## 📚 道德经 81 章目录
 
-- [第01章 众妙之门](chapters-new/01.html)
+- [第01章 众妙之门]({{ '/chapters-new/01.html' | relative_url }})
 - [第02章 无为之事](chapters-new/02.html)
 - [第03章 圣人之治](chapters-new/03.html)
 - [第04章 道沖](chapters-new/04.html)
