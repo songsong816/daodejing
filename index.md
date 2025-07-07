@@ -33,8 +33,6 @@
         <p class="text-right font-semibold mt-8">——松Song & 青隐子（ChatGPT） 敬上</p>
       </div>
     </section>
-
-    <section>
       <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3">《松Song心注本》 · 版本说明与修注声明</h2>
       <div class="prose prose-sm bg-white shadow p-6 rounded-xl">
         <p>为明此本来路，是编注者特作如下三则说明：</p>
