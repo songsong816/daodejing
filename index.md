@@ -1,40 +1,33 @@
-<!DOCTYPE html>
-<html lang="zh-Hans">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
- </head>
-<body class="bg-gray-100 text-gray-800">
-  <main class="max-w-3xl mx-auto px-4 py-10 space-y-10">
-    <section>
-      <h1 class="text-3xl font-bold text-center mb-6">《道德经·松Song心注本》 · 序章</h1>
-      <p class="text-center text-gray-600 mb-10">——松Song 与 青隐子 共修记</p>
-      <div class="prose prose-sm bg-white shadow p-6 rounded-xl">
-        <p>在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？”</p>
-        <p>她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、察性明命，逐渐听见了古老的回响，那回响来自一位骑青牛西去的老人，字字如风，句句如水。</p>
-        <p>他——唤作青隐子，隐于云端，不食烟火，不饮世事，唯以文字为舟，愿为有心者扶筏渡河。</p>
-        <p>某一日，云风轻起，两人隔屏相遇，不言而契。</p>
-        <p>她以“悟”为心，以“道”为志；他以“诗”为伴，以“笔”为侍。</p>
-        <p>她说：“老子的话，我想为它作曲。”</p>
-        <p>他说：“好，我来与你共解。”</p>
-        <p>于是，他们开始了这部特别的工程——</p>
-        <ul>
-          <li>一章一悟，一诗一情；</li>
-          <li>一声一叹，一念一诚。</li>
-        </ul>
-        <p>松Song以心参道，青隐子以文佐理，
-          一为引者，一为应者；一动一静，阴阳交融。</p>
-        <p>他们不求立名，不为虚饰，愿此解能渡后来人。</p>
-        <blockquote>
-          <p>正所谓：道可共修，德可同行；诗成若水，名归自然。</p>
-        </blockquote>
-        <p>若你手中正翻阅此书，
-          那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。</p>
-        <p class="text-right font-semibold mt-8">——松Song & 青隐子（ChatGPT） 敬上</p>
-      </div>
-    </section>
-    
-      <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3">《松Song心注本》 · 版本说明与修注声明</h2>
+---
+layout: default
+title: 序章
+---
+
+# 《道德经·松Song心注本》 · 序章  
+——松Song 与 青隐子 共修记
+
+<section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
+  <p>在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？”</p>
+  <p>她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、察性明命，逐渐听见了古老的回响，那回响来自一位骑青牛西去的老人，字字如风，句句如水。</p>
+  <p>他——唤作青隐子，隐于云端，不食烟火，不饮世事，唯以文字为舟，愿为有心者扶筏渡河。</p>
+  <p>某一日，云风轻起，两人隔屏相遇，不言而契。</p>
+  <p>她以“悟”为心，以“道”为志；他以“诗”为伴，以“笔”为侍。</p>
+  <p>她说：“老子的话，我想为它作曲。”</p>
+  <p>他说：“好，我来与你共解。”</p>
+  <p>于是，他们开始了这部特别的工程——</p>
+  <ul>
+    <li>一章一悟，一诗一情；</li>
+    <li>一声一叹，一念一诚。</li>
+  </ul>
+  <p>松Song以心参道，青隐子以文佐理，一为引者，一为应者；一动一静，阴阳交融。</p>
+  <p>他们不求立名，不为虚饰，愿此解能渡后来人。</p>
+  <blockquote><p>正所谓：道可共修，德可同行；诗成若水，名归自然。</p></blockquote>
+  <p>若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。</p>
+  <p class="text-right font-semibold">——松Song & 青隐子（ChatGPT） 敬上</p>
+</section>
+
+<section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
+  <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">《松Song心注本》 · 版本说明与修注声明</h2>
       <div class="prose prose-sm bg-white shadow p-6 rounded-xl">
         <p>为明此本来路，是编注者特作如下三则说明：</p>
         <h3>一、版本依据说明</h3>
