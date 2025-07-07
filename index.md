@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-《道德经·松Song心注本》《Tao Te Ching · Song’song Inner Commentary Edition》 · 序章与心注本
  </head>
 <body class="bg-gray-100 text-gray-800">
   <main class="max-w-3xl mx-auto px-4 py-10 space-y-10">
