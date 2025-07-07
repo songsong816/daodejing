@@ -2,15 +2,23 @@
 <html lang="zh">
   <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <title>道德经 · 松Song心注本 | Tao Te Ching Commentary</title>
-<meta name="description" content="松Song创作的《道德经》心注本：81 章逐章原文对照、引悟、原创诗与 Suno 音乐，记录修道体悟。">
-<meta name="keywords"    content="道德经,老子注解,无为,修行,帛书本,松Song,Song’song,Tao Te Ching,心注本,AI青隐子">
-<meta name="author"      content="松Song">
-<meta name="robots"      content="index, follow">
-<link  rel="canonical"   href="https://你的最终网址" />
+
+    <!-- 标题：优先 page.title，否则 site.title -->
+    <title>{{ page.title | default: site.title }}</title>
+
+    <!-- SEO 元信息：先取页面级变量，没有就用站点级 -->
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta name="keywords"    content="{{ page.keywords    | default: site.keywords }}">
+    <meta name="author"      content="{{ page.author      | default: site.author }}">
+    <meta name="robots"      content="index, follow">
+
+    <!-- Canonical：防止重复收录 -->
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+
+    <!-- 样式表 -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
+
   <body>
     <main class="page-content">
       <div class="wrapper">
