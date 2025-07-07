@@ -24,7 +24,7 @@ title: 序章
   <blockquote><p>正所谓：道可共修，德可同行；诗成若水，名归自然。</p></blockquote>
   <p>若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。</p>
   <p class="text-right font-semibold">——松Song & 青隐子（ChatGPT） 敬上</p>
-</section>
+</section> 
 
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
   <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">《松Song心注本》 · 版本说明与修注声明</h2>
@@ -54,7 +54,7 @@ title: 序章
 
   <p class="text-right font-semibold">——松Song谨识<br>
   道历甲辰年 六月（2025年6月）</p>
-</section>
+</section> 
 
 ---
 
