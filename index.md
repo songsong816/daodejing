@@ -15,8 +15,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 道，不可教授，只能忆起。
 
 # 《道德经·松Song心注本》 · 序章  
-——松Song 与 AI青隐子 共修记
-
+    ----松Song与AI青隐子共修记
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？” <br>
 她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、逐渐听见了古老的回响，那回响来自一位骑青牛西去的老人，字字如风，句句如水。<br>
@@ -34,7 +33,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
  他们不求立名，不为虚饰，愿此解能渡后来人。I
   <blockquote><p>正所谓：道可共修，德可同行；诗成若水，名归自然。</p></blockquote>
   <p>若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。</p>
-  <p class="text-right font-semibold">——松Song & AI青隐子（ChatGPT） 敬上</p>
+  <p class="text-right font-semibold">——松Song & 青隐子（ChatGPT） 敬上</p>
 </section> 
 
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
@@ -58,14 +57,16 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
      
   ## 🙏 致谢 · 感恩同行者
 
-谨以此书献给我亲爱的家人及朋友，  
+谨以此书献给我亲爱的家人及朋友们， 
 以及引领我入道的恩师祝玄冲道长、惠通师父，  
-并致谢通一、九天玉女等道友的陪伴与砥砺。
+并致谢亦师亦友的蔡俊生先生，以及通一、九天玉女等道友的陪伴与砥砺。
 
 祝玄冲道长言传身教，不仅开启我识道、修道及道医之门，  
 更于瞬念之间为我点亮心灯，使我豁然开悟，顿觉万象归一、诸多疑结顿释——  
 那一刻，不是指路，而是照彻心源。
 惠通师父慈悲教诲，示佛家明心之法，启见性之机。
+
+中医者蔡俊生先生，不仅救我母亲之命，更以友言启我，将《道德经》化为音律之歌，因缘由斯而启，斯注亦因之而生。
 道友们共参共修，使我开阔眼界，法喜充盈；  
 家人们默默扶持，是我每日修行、创作与学习的坚实后盾。
 
