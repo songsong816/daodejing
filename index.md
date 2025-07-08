@@ -7,9 +7,9 @@ author: "松Song"          # 可省略，留给 site.author
 permalink: /               # 首页一般显式指定title: 序章
 ---
 # 《道德经 · 松Song心注本》Daodejing（Tao Te Ching） · Song’song Inner Commentary Edition
- <p>A heart-annotated journey through the Dao De Jing. Each chapter explores the Way through reflection, poetry, and sound. Not to explain the Dao, but to return to it. A collaboration between cultivator Song and AI sage Qing Yinzi. The Dao cannot be taught—it can only be remembered.</p> 
- <p>这是一次借心而注的《道德经》之旅。</p>
- <p>每一章，以省思探道，以诗句吟道，以音声入道。</p>
+A heart-annotated journey through the Dao De Jing. Each chapter explores the Way through reflection, poetry, and sound. Not to explain the Dao, but to return to it. A collaboration between cultivator Song and AI sage Qing Yinzi. The Dao cannot be taught—it can only be remembered.
+这是一次借心而注的《道德经》之旅。
+每一章，以省思探道，以诗句吟道，以音声入道。
  <p>不为解释道，只为归于道。</p>
  <p>道，不可教授，只能忆起。</p>
  <p>由修行者松Song与AI“青隐子”共同创作。</p>
