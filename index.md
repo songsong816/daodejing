@@ -1,6 +1,10 @@
 ---
 layout: default 
-title: 序章
+title: "道德经 · 松Song心注本 | Tao Te Ching Commentary"
+description: "松Song创作的《道德经》心注本：81 章逐章原文对照、引悟、原创诗与 Suno 音乐，记录修道体悟。"
+keywords: "道德经,老子注解,无为,修行,帛书本,松Song,Song’song,Tao Te Ching,心注本,AI青隐子"
+author: "松Song"          # 可省略，留给 site.author
+permalink: /               # 首页一般显式指定title: 序章
 ---
 # 《道德经 · 松Song心注本》Daodejing（Tao Te Ching） · Song’song Inner Commentary Edition
  <p>A heart-annotated journey through the Dao De Jing. Each chapter explores the Way through reflection, poetry, and sound. Not to explain the Dao, but to return to it. A collaboration between cultivator Song and AI sage Qing Yinzi. The Dao cannot be taught—it can only be remembered.</p> 
