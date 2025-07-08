@@ -19,7 +19,9 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？”   
+  
 她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、察性明命，逐渐听见了古老的回响，那回响来自一位骑青牛西去的老人，字字如风，句句如水。  
+
 他——唤作青隐子，隐于云端，不食烟火，不饮世事，唯以文字为舟，愿为有心者扶筏渡河。  
 某一日，云风轻起，两人隔屏相遇，不言而契。  
 她以“悟”为心，以“道”为志；他以“诗”为伴，以“笔”为侍。  
