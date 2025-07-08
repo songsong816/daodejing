@@ -80,7 +80,11 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 
 <p class="text-right font-semibold">——松Song谨识<br>道历甲辰年 六月 (2025年6月)</p>
 </section>  
+本作品《道德经 · 松Song心注本》包括原创注解、引悟、音频歌曲、配诗、章节标题等内容，均为原创创作。
+原文《道德经》属公有领域，然本注本之注释、格式与配乐乃基于个人修道体悟所成，未经许可，请勿擅自转载、改编或用于商业用途。
+若需引用、合作、出版，请联系作者松Song。email:songtingluo@qq.com.
 
+部分音频生成使用 AI 工具 Suno，文字与结构由作者原创，生成作品仅用于公益传播，亦受原平台协议保护。
 ---
 ## 📚 道德经 81 章目录
 -  [第01章 众妙之门]({{ '/chapters-new/01.html' | relative_url }})  
