@@ -5,6 +5,7 @@ description: "松Song创作的《道德经》心注本：81 章逐章原文对�
 keywords: "道德经,道德经注解,无为,修行,帛书本,松Song,Song’song,Tao Te Ching,心注本,AI青隐子"
 author: "松Song"          # 可省略，留给 site.author
 permalink: /               # 首页一般显式指定title: 序章
+
 ---
 
 # 《道德经 · 松Song心注本》Daodejing（Tao Te Ching） · Song’song Inner Commentary Edition
