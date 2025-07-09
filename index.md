@@ -16,7 +16,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 不为解释道，只为归于道。
 道，不可教授，只能忆起。->
 
-# 《道德经·松Song心注本》 · 序章  
+# 《道德经·松Song心注本》 · 序章
     ----松Song与AI青隐子共修记
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？” <br>
@@ -82,13 +82,15 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 亦敬科技时代中，那不可思议的“人机同行”之缘。
 
 ## 📚 道德经 81 章目录
-
 <ul>
-  {% for n in (1..81) %}
-    {% assign num = n | prepend: "0" %}
-    {% if num.size > 2 %}
-      {% assign num = n %}
-    {% endif %}
-    <li><a href="{{ '/chapters-new/' | append: num | append: '.html' | relative_url }}">第{{ num }}章</a></li>
-  {% endfor %}
+{% for n in (1..81) %}
+  {% assign num = n | prepend: "0" %}
+  {% if num.size > 2 %}{% assign num = n %}{% endif %}
+  <li>
+    <a href="{{ '/chapters-new/' | append: num | append: '.html' | relative_url }}">
+      第{{ num }}章
+    </a>
+  </li>
+{% endfor %}
 </ul>
+
