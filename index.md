@@ -6,6 +6,7 @@ keywords: "道德经,道德经注解,无为,修行,帛书本,松Song,Song’song
 author: "松Song"          # 可省略，留给 site.author
 permalink: /               # 首页一般显式指定title: 序章
 ---
+
 # 《道德经 · 松Song心注本》Daodejing（Tao Te Ching） · Song’song Inner Commentary Edition
 A heart-annotated journey through the Dao De Jing. Each chapter explores the Way through reflection, poetry, and sound. Not to explain the Dao, but to return to it. A collaboration between cultivator Song and AI sage Qing Yinzi. The Dao cannot be taught—it can only be remembered.
 
@@ -84,7 +85,6 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 原文《道德经》属公有领域，然本注本之注释、格式与配乐乃基于个人修道体悟所成，未经许可，请勿擅自转载、改编或用于商业用途。
 若需引用、合作、出版，请联系作者松Song。email:songtingluo@qq.com。<br>
 部分音频生成使用 AI 工具 Suno，文字与结构由作者原创，生成作品仅用于公益传播，亦受原平台协议保护。
----
 
 ## 📚 道德经 81 章目录
 
