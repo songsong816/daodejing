@@ -55,7 +55,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
    <p><strong>【心印之语 · 松Song自铭】</strong><br>
      愿以寸心应道，不敢妄言老子，只是修己之记。</p>
      
-  ## 🙏 致谢 · 感恩同行者
+## 🙏 致谢 · 感恩同行者
 
 谨以此书献给我亲爱的家人及朋友们， 
 以及引领我入道的恩师祝玄冲道长、惠通师父，  
@@ -86,7 +86,8 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 部分音频生成使用 AI 工具 Suno，文字与结构由作者原创，生成作品仅用于公益传播，亦受原平台协议保护。
 ---
 
-## <h2 id="catalog">📚 道德经 81 章目录</h2>
+## 
+<h2 id="catalog">📚 道德经 81 章目录</h2>
 -  [第01章 众妙之门]({{ '/chapters-new/01.html' | relative_url }})  
 -  [第02章 无为之事]({{ '/chapters-new/02.html' | relative_url }})  
 -  [第03章 圣人之治]({{ '/chapters-new/03.html'  | relative_url }})  
