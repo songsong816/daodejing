@@ -41,7 +41,8 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
   <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">《松Song心注本》 · 版本说明与修注声明</h2>
   <p>为明此本来路，是编注者特作如下三则说明：</p>
-**一、版本依据说明** 
+    
+## 一、版本依据说明
   通行版为王弼本，简体字排版；帛书文则据长沙马王堆汉墓出土之《道德经》帛书甲本与乙本。因两本各有残缺，篇序亦异，故未特别标明者，皆为甲乙互参、择善而从，少数残文处酌采河上公本以续文脉。帛书部分统一采用繁体字，以最大程度还原古貌，兼顾海内外读者通用。</p>
 
   <p>全书以李克先生所注《帛书道德经》为蓝本，兼采今人异文研究，融入编者自家体悟，力求返璞归真，复其道旨。各章标题（如第一章“众妙之门”等）皆由松Song依据本章意旨自行命名，旨在提纲挈领、便于理解记诵。原典《道德经》无章题，特此注明。</p>
@@ -93,4 +94,3 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
   </li>
 {% endfor %}
 </ul>
-
