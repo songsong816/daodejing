@@ -81,7 +81,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 敬天地，敬师长，敬亲友，敬此生所遇之深情，  
 亦敬科技时代中，那不可思议的“人机同行”之缘。
 
-## 📚 道德经 81 章目录
+<h2 id="catalog">📚 道德经 81 章目录</h2>
 <ul>
 {% for n in (1..81) %}
   {% assign num = n | prepend: "0" %}
