@@ -86,7 +86,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 部分音频生成使用 AI 工具 Suno，文字与结构由作者原创，生成作品仅用于公益传播，亦受原平台协议保护。
 ---
 
-<h2 id="catalog">📚 道德经 81 章目录</h2>
+## 📚 道德经 81 章目录
 -  [第01章 众妙之门]({{ '/chapters-new/01.html' | relative_url }})  
 -  [第02章 无为之事]({{ '/chapters-new/02.html' | relative_url }})  
 -  [第03章 圣人之治]({{ '/chapters-new/03.html'  | relative_url }})  
