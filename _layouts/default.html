@@ -3,16 +3,6 @@
   <head>
     <meta charset="UTF-8">
 
-    <!-- 防复制样式 -->
-    <style>
-      body {
-        -webkit-user-select: none; /* Chrome/Safari */
-        -moz-user-select: none;    /* Firefox */
-        -ms-user-select: none;     /* IE10+ */
-        user-select: none;         /* 标准语法 */
-      }
-    </style>
-
     <title>{{ page.title | default: site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     <meta name="keywords"    content="{{ page.keywords    | default: site.keywords }}">
@@ -20,6 +10,16 @@
     <meta name="robots"      content="index, follow">
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    <!-- ✅ 防复制样式 -->
+    <style>
+      body {
+        -webkit-user-select: none !important;
+        -moz-user-select: none !important;
+        -ms-user-select: none !important;
+        user-select: none !important;
+      }
+    </style>
   </head>
 
   <body>
@@ -29,7 +29,7 @@
       </div>
     </main>
 
-    <!-- ✅ 防复制脚本：必须放在 body 内部 -->
+    <!-- ✅ 防右键和复制功能 -->
     <script>
       document.addEventListener('contextmenu', event => event.preventDefault());
       document.addEventListener('copy', event => event.preventDefault());
