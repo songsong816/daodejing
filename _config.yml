@@ -1,9 +1,9 @@
 title: "道德经 · 松Song心注本 | Tao Te Ching Commentary"
 description: "松Song创作的《道德经》心注本：81章逐章原文对照、引悟、原创诗与 Suno 音乐，记录修道体悟。"
-keywords: "道德经,老子注解,无为,修行,帛书本,松Song,Song’song,Tao Te Ching,心注本,青隐子"
+keywords: "道德经,老子注解,无为,修行,帛书本,松Song,Tao Te Ching,心注本"
 author: "松Song"
-url: "https://songsong816.github.io"   # GitHub Pages 域名
-baseurl: "/daodejing"                 # 项目路径（必须以 / 开头）
+url: "https://songsong816.github.io"  # GitHub Pages 域名
+baseurl: "/daodejing"                # 项目路径（必须以 / 开头）
 
 # 网站主题
 theme: minima
