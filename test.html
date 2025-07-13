@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>防复制测试页</title>
 
+    <!-- 防复制样式 -->
     <style>
       body {
         background-color: #fdfdfd;
@@ -23,6 +24,7 @@
     <p>请尝试拖选这段文字、右键点击、或 Ctrl+C 复制。</p>
     <p>如果你无法选中或复制，则说明防复制功能已生效 ✅</p>
 
+    <!-- 防复制脚本 -->
     <script>
       document.addEventListener('contextmenu', event => event.preventDefault());
       document.addEventListener('copy', event => event.preventDefault());
