@@ -7,14 +7,11 @@ layout: null
   <head>
     <meta charset="UTF-8">
     <title>防复制测试页</title>
-
-    <!-- 防复制样式 -->
     <style>
       body {
-        background-color: #fdfdfd;
         font-family: sans-serif;
         padding: 2em;
-        line-height: 1.6;
+        background: #fffbea;
         -webkit-user-select: none !important;
         -moz-user-select: none !important;
         -ms-user-select: none !important;
@@ -22,13 +19,10 @@ layout: null
       }
     </style>
   </head>
-
   <body>
-    <h1>这是防复制测试页</h1>
-    <p>请尝试拖选这段文字、右键点击、或 Ctrl+C 复制。</p>
-    <p>如果你无法选中或复制，则说明防复制功能已生效 ✅</p>
+    <h1>这是防复制测试页 ✅</h1>
+    <p>请尝试拖选、复制、或右键，验证是否生效。</p>
 
-    <!-- 防复制脚本 -->
     <script>
       document.addEventListener('contextmenu', event => event.preventDefault());
       document.addEventListener('copy', event => event.preventDefault());
