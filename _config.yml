@@ -6,7 +6,6 @@ url: "https://songsong816.github.io"   # 你的正式域名
 baseurl: "/daodejing"  
 
 # 主题与 Markdown 解析
-theme: minima
 header_pages: []
 markdown: kramdown
 
