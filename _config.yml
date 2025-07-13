@@ -9,12 +9,3 @@ baseurl: "/daodejing"                 # 项目路径（必须以 / 开头）
 theme: minima
 markdown: kramdown
 timezone: "Australia/Melbourne"
-
-# 插件
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# 可选页眉页面（你目前留空也无妨）
-header_pages: []
