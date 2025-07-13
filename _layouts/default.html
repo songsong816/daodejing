@@ -1,30 +1,24 @@
-<style>
-body {
-  -webkit-user-select: none; /* Chrome/Safari */
-  -moz-user-select: none;    /* Firefox */
-  -ms-user-select: none;     /* IE10+ */
-  user-select: none;         /* 标准语法 */
-}
-</style>
-
 <!DOCTYPE html>
 <html lang="zh">
   <head>
     <meta charset="UTF-8">
 
-    <!-- 标题：优先 page.title，否则 site.title -->
-    <title>{{ page.title | default: site.title }}</title>
+    <!-- 防复制样式 -->
+    <style>
+      body {
+        -webkit-user-select: none; /* Chrome/Safari */
+        -moz-user-select: none;    /* Firefox */
+        -ms-user-select: none;     /* IE10+ */
+        user-select: none;         /* 标准语法 */
+      }
+    </style>
 
-    <!-- SEO 元信息：先取页面级变量，没有就用站点级 -->
+    <title>{{ page.title | default: site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     <meta name="keywords"    content="{{ page.keywords    | default: site.keywords }}">
     <meta name="author"      content="{{ page.author      | default: site.author }}">
     <meta name="robots"      content="index, follow">
-
-    <!-- Canonical：防止重复收录 -->
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-
-    <!-- 样式表 -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
 
@@ -34,10 +28,11 @@ body {
         {{ content }}
       </div>
     </main>
+
+    <!-- ✅ 防复制脚本：必须放在 body 内部 -->
+    <script>
+      document.addEventListener('contextmenu', event => event.preventDefault());
+      document.addEventListener('copy', event => event.preventDefault());
+    </script>
   </body>
 </html>
-
-<script>
-  document.addEventListener('contextmenu', event => event.preventDefault());
-  document.addEventListener('copy', event => event.preventDefault());
-</script>
