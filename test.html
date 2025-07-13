@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8">
+    <title>防复制测试页</title>
 
+    <style>
+      body {
+        background-color: #fdfdfd;
+        font-family: sans-serif;
+        padding: 2em;
+        line-height: 1.6;
+        -webkit-user-select: none !important;
+        -moz-user-select: none !important;
+        -ms-user-select: none !important;
+        user-select: none !important;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>这是防复制测试页</h1>
+    <p>请尝试拖选这段文字、右键点击、或 Ctrl+C 复制。</p>
+    <p>如果你无法选中或复制，则说明防复制功能已生效 ✅</p>
+
+    <script>
+      document.addEventListener('contextmenu', event => event.preventDefault());
+      document.addEventListener('copy', event => event.preventDefault());
+    </script>
+  </body>
+</html>
