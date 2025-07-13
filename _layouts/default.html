@@ -11,16 +11,7 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-    <!-- ✅ 防复制样式 -->
-    <style>
-      body {
-        -webkit-user-select: none !important;
-        -moz-user-select: none !important;
-        -ms-user-select: none !important;
-        user-select: none !important;
-      }
-    </style>
-  </head>
+   </head>
 
   <body>
     <main class="page-content">
@@ -28,11 +19,3 @@
         {{ content }}
       </div>
     </main>
-
-    <!-- ✅ 防右键和复制功能 -->
-    <script>
-      document.addEventListener('contextmenu', event => event.preventDefault());
-      document.addEventListener('copy', event => event.preventDefault());
-    </script>
-  </body>
-</html>
