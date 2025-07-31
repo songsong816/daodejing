@@ -16,7 +16,8 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 不为解释道，只为归于道。
 道，不可教授，只能忆起。->
 
-## 序章《心归本真》
+## 序章 
+
 <p style="text-align:center;">
   <img src="{{ '/assets/img/xinguibenzhen.png' | relative_url }}" 
        alt="心归本真 封面图" width="500">
@@ -33,7 +34,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
   </video>
 </section>
 
-###----松Song与AI青隐子共修记
+### 松Song与AI青隐子共修记
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？” <br>
 她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、逐渐听见了古老的回响，那回响来自一位骑青牛西去的老人，字字如风，句句如水。<br>
