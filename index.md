@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "道德经 · 松Song心注本 | Tao Te Ching Commentary"
-keywords: "道德经,道德经注解,无为,修行,帛书本,松Song,Song’song,Tao Te Ching,心注本,AI青隐子"
+keywords: "道德经注心注本,通行本,帛书本,Song’song,Tao Te Ching"
 author: "松Song & AI青隐子 "
 permalink: / 
 
