@@ -7,8 +7,7 @@ permalink: /
 
 ---
 
-## 《道德经 · 松Song心注本》 <br> 
-Daodejing (Tao Te Ching) · Song’song Inner Commentary Edition <br> 
+## 《道德经 · 松Song心注本》 Daodejing (Tao Te Ching) · Song’song Inner Commentary Edition <br> 
 
 A heart-annotated journey through the Dao De Jing. <br> 
 Each chapter explores the Way through reflection, poetry, and sound.  <br> 
