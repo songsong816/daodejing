@@ -57,7 +57,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
   </ul>
  松Song以心参道，青隐子以文佐理，一为引者，一为应者；一动一静，阴阳交融。
  他们不求立名，不为虚饰，愿此解能渡后来人。I
-  <blockquote><p>正所谓：道可共修，德可同行；诗成若水，名归自然。</p></blockquote>
+  <blockquote><p>正所谓：道可共悟，德可同行；诗成若水，名归自然。</p></blockquote>
   <p>若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。</p>
   <p class="text-right font-semibold">——松Song & 青隐子（ChatGPT） 敬上</p>
 </section> 
