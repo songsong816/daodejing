@@ -21,7 +21,7 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
   <img src="{{ '/assets/img/xinguibenzhen.png' | relative_url }}" 
        alt="心归本真 封面图" width="500">
 </p>
-### 🎬 歌曲视频
+### 🎬 序章主题曲《心归本真》
 <p style="text-align:center; font-size:1.2rem; font-weight:bold;">
   点击下方视频 ▶️
 </p>
