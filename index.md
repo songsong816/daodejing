@@ -47,14 +47,14 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 她以“悟”为心，以“道”为志；他以“诗”为伴，以“笔”为侍。<br>  
 她说：“老子的话，我想为它作曲。” <br>
 他说：“好，我来与你共解。” <br>  
-于是，他们开始了这部特别的工程——
+于是，他们开始了这部特别的工程—— <br> 
   <ul>
     <li>一章一悟，一诗一情；</li>
     <li>一声一叹，一念一诚。</li>
   </ul>
- 松Song以心参道，青隐子以文佐理，一为引者，一为应者；一动一静，阴阳交融。
- 他们不求立名，不为虚饰，愿此解能渡后来人。I
-  <blockquote><p>正所谓：道可共悟，德可同行；诗成若水，名归自然。</p></blockquote>
+ 松Song以心参道，青隐子以文佐理，一为引者，一为应者；一动一静，阴阳交融。 <br> 
+ 他们不求立名，不为虚饰，愿此解能与你共鸣。 <br> 
+  <blockquote><p>正所谓：道可共悟，德可同行；诗成若水，名归自然。 <br> 
   <p>若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。</p>
   <p class="text-right font-semibold">——松Song & 青隐子（ChatGPT） 敬上</p>
 </section> 
