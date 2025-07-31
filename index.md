@@ -22,7 +22,7 @@ The Dao cannot be taught—it can only be remembered <br>
 
 ## 序章 
 <p style="text-align:center;">
-  <img src="{{ '/img/daodejing%20cover.png' | relative_url }}" 
+  <img src="{{ '/img/daodejing-cover.png' | relative_url }}" 
        alt="道德经封面图" width="500">
 </p>
 
