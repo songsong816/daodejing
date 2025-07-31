@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "道德经 · 松Song心注本 | Tao Te Ching Commentary"
-description: 这是使用 Jekyll 渲染的测试首页
 keywords: "道德经,道德经注解,无为,修行,帛书本,松Song,Song’song,Tao Te Ching,心注本,AI青隐子"
-author: "松Song"          # 可省略，留给 site.author
-permalink: /             # 首页一般显式指定title: 序章
+author: "松Song" & AI青隐子 
+permalink: / 序章  
 
 ---
 
@@ -17,8 +16,24 @@ A heart-annotated journey through the Dao De Jing. Each chapter explores the Way
 不为解释道，只为归于道。
 道，不可教授，只能忆起。->
 
-# 《道德经·松Song心注本》 · 序章
-    ----松Song与AI青隐子共修记
+## 序章《心归本真》
+<p style="text-align:center;">
+  <img src="{{ '/assets/img/xinguibenzhen.png' | relative_url }}" 
+       alt="心归本真 封面图" width="500">
+</p>
+
+<section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
+  <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">
+    🎵 序章主题曲《心归本真》
+  </h2>
+  <video controls width="100%">
+    <source src="https://streamable.com/hbaajm" type="video/mp4">
+    您的浏览器不支持视频播放，请点击
+    <a href="https://streamable.com/hbaajm" target="_blank">这里</a> 收听。
+  </video>
+</section>
+
+###----松Song与AI青隐子共修记
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？” <br>
 她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、逐渐听见了古老的回响，那回响来自一位骑青牛西去的老人，字字如风，句句如水。<br>
