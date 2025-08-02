@@ -25,6 +25,7 @@ The Dao cannot be taught—it can only be remembered <br>
   <img src="{{ '/img/daodejing-cover.png' | relative_url }}" 
        alt="道德经封面图" width="500">
 </p>
+
 ### 🎬 序章主题曲《心归本真》
 <p style="text-align:center; font-size:1.2rem; font-weight:bold;">
   点击下方视频 ▶️
