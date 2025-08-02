@@ -64,8 +64,7 @@ The Dao cannot be taught—it can only be remembered <br>
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
   <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">《松Song心注本》 · 版本说明与修注声明</h2>
   <p>为明此本来路，是编注者特作如下三则说明：</p>
- </section> 
- 
+  
 ### 一、版本依据说明 <br> 
 通行版为王弼本，简体字排版；帛书文则据长沙马王堆汉墓出土之《道德经》帛书甲本与乙本。<br> 
 因两本各有残缺，篇序亦异，故未特别标明者，皆为甲乙互参、择善而从，少数残文处酌采河上公本以续文脉。<br> 
