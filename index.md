@@ -41,7 +41,6 @@ The Dao cannot be taught—it can only be remembered <br>
 ---
 
 ### 松Song与AI青隐子共修记
-class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？” <br>
 她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、逐渐听见了古老的回响，<br>
 那回响来自一位骑青牛西去的老人，字字如风，句句如水。<br>
@@ -60,12 +59,10 @@ class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
   <blockquote><p>正所谓：道可共悟，德可同行；诗成若水，名归自然。 <br> 
   <p>若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。</p>
   <p class="text-right font-semibold">——松Song & 青隐子（ChatGPT） 敬上</p>
-
-<section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
   <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">《松Song心注本》 · 版本说明与修注声明</h2>
 为明此本来路，是编注者特作如下三则说明：<br> 
 
-### 一、版本依据说明 <br> 
+### 一、版本依据说明
 通行版为王弼本，简体字排版；帛书文则据长沙马王堆汉墓出土之《道德经》帛书甲本与乙本。<br> 
 因两本各有残缺，篇序亦异，故未特别标明者，皆为甲乙互参、择善而从，少数残文处酌采河上公本以续文脉。<br> 
 帛书部分统一采用繁体字，以最大程度还原古貌，兼顾海内外读者通用。<br>
@@ -77,13 +74,13 @@ class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 本书各章标题（如第一章“众妙之门”等）皆由松Song依据本章意旨自行命名，旨在提纲挈领、便于理解记诵。<br> 
 原典《道德经》无章题，特此注明。<br>
 
-### 二、音乐编歌说明 <br> 
+### 二、音乐编歌说明
 本书配套歌曲，皆由编者使用 AI 音乐工具 Suno 生成，旨在以音声弘道，助人心耳双入。<br> 
 章中主歌第一段为通行本，主歌第二段为帛书本，Suno 自动生成之副歌、尾声等自由发挥部分，为避免混淆原经文，故不作标注。<br> 
 因初期使用尚不熟练，AI演唱中偶有错音误读，编者本着“宽己宽AI”之心，多未改动，以保其原始风貌。<br> 
 歌词内悉加拼音注音，便于辨识。后期使用AI技术逐渐精进，已有所改善。<br> 
 
-### 三、心注立场说明 <br> 
+### 三、心注立场说明
 本书并非学术论著，亦不涉义理宗争；凡所引、悟，皆系编者本人当下心见，<br> 
 不受训诂所为缚，不立门户之见，惟求返本契道。<br> 
 字词解释多借助 ChatGPT、DeepSeek 等 AI 工具，略经修改，章节配诗由 ChatGPT 所作。<br> 
