@@ -92,7 +92,7 @@ The Dao cannot be taught—it can only be remembered <br>
 
 ### 【心印之语 · 松Song自铭】
 
-愿以寸心应道，不敢妄言老子，只是修己之记。<br> 
+愿以寸心应道，不敢妄言老子，只是修己之记。
 
 ##  🙏 致谢 · 感恩同行者
 
