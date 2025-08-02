@@ -88,9 +88,9 @@ class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 不受训诂所为缚，不立门户之见，惟求返本契道。<br> 
 字词解释多借助 ChatGPT、DeepSeek 等 AI 工具，略经修改，章节配诗由 ChatGPT 所作。<br> 
 若有理解未逮、言辞失度，尚祈诸道友、方家学人不吝指正，是为厚德。<br> 
-   <p><strong>【心印之语 · 松Song自铭】</strong><br>
-     愿以寸心应道，不敢妄言老子，只是修己之记。<br> 
-     
+<p><strong>【心印之语 · 松Song自铭】</strong><br>
+愿以寸心应道，不敢妄言老子，只是修己之记。<br> 
+
 ### 🙏 致谢 · 感恩同行者 <br> 
 
 谨以此书献给我亲爱的妈妈及家人、朋友们，您们默默扶持，是我每日修行、创作与学习的坚实后盾。<br>
