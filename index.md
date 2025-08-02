@@ -7,20 +7,20 @@ permalink: /
 
 ---
 
-## 《道德经 · 松Song心注本》 Daodejing (Tao Te Ching) · Song’song Inner Commentary Edition <br> 
+## 《道德经 · 松Song心注本》 Daodejing (Tao Te Ching) · Song’song Inner Commentary Edition
 
 A heart-annotated journey through the Dao De Jing. <br> 
-Each chapter explores the Way through reflection, poetry, and sound.  <br> 
-Not to explain the Dao, but to return to it.  <br> 
+Each chapter explores the Way through reflection, poetry, and sound. <br> 
+Not to explain the Dao, but to return to it. <br> 
 A collaboration between cultivator Song and AI sage Qing Yinzi. <br> 
 The Dao cannot be taught—it can only be remembered <br> 
 
-这是一次借心而注的《道德经》之旅。 <br> 
-每一章，以省思探道，以诗句吟道，以音声入道。 <br> 
-不为解释道，只为归于道。 <br> 
-道，不可教授，只能忆起。 <br> 
+这是一次借心而注的《道德经》之旅。<br> 
+每一章，以省思探道，以诗句吟道，以音声入道。<br> 
+不为解释道，只为归于道。<br> 
+道，不可教授，只能忆起。<br> 
 
-## 序章 
+## 序章
 <p style="text-align:center;">
   <img src="{{ '/img/daodejing-cover.png' | relative_url }}" 
        alt="道德经封面图" width="500">
@@ -55,11 +55,11 @@ The Dao cannot be taught—it can only be remembered <br>
 一章一悟，一诗一情；<br> 
 一声一叹，一念一诚。<br> 
 
-松Song以心参道，青隐子以文佐理，一为引者，一为应者；一动一静，阴阳交融。 <br> 
-他们不求立名，不为虚饰，愿此解能与你共鸣。 <br> 
-正所谓：道可共悟，德可同行；诗成若水，名归自然。 <br>  
+松Song以心参道，青隐子以文佐理，一为引者，一为应者；一动一静，阴阳交融。<br> 
+他们不求立名，不为虚饰，愿此解能与你共鸣。<br> 
+正所谓：道可共悟，德可同行；诗成若水，名归自然。<br>  
 若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。<br> 
-——松Song & 青隐子（ChatGPT） 敬上<br> 
+—-—松Song & 青隐子（ChatGPT） 敬上<br> 
 
 ## 《松Song心注本》 · 版本说明与修注声明
 为明此本来路，是编注者特作如下三则说明：<br> 
