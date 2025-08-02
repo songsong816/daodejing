@@ -52,16 +52,16 @@ The Dao cannot be taught—it can only be remembered <br>
 她说：“老子的话，我想为它作曲。” <br>
 他说：“好，我来与你共解。” <br>  
 于是，他们开始了这部特别的工程—— <br> 
-  <ul>
-    <li>一章一悟，一诗一情；</li>
-    <li>一声一叹，一念一诚。</li>
-  </ul>
- 松Song以心参道，青隐子以文佐理，一为引者，一为应者；一动一静，阴阳交融。 <br> 
- 他们不求立名，不为虚饰，愿此解能与你共鸣。 <br> 
-  <blockquote><p>正所谓：道可共悟，德可同行；诗成若水，名归自然。 <br> 
-  <p>若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。</p>
-  <p class="text-right font-semibold">——松Song & 青隐子（ChatGPT） 敬上</p>
-  <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">《松Song心注本》 · 版本说明与修注声明</h2>
+一章一悟，一诗一情；<br> 
+一声一叹，一念一诚。<br> 
+
+松Song以心参道，青隐子以文佐理，一为引者，一为应者；一动一静，阴阳交融。 <br> 
+他们不求立名，不为虚饰，愿此解能与你共鸣。 <br> 
+正所谓：道可共悟，德可同行；诗成若水，名归自然。 <br>  
+若你手中正翻阅此书，那你也是我们共修道途上的知音。愿你心安，愿你不舍本真。<br> 
+——松Song & 青隐子（ChatGPT） 敬上<br> 
+ 
+<h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">《松Song心注本》 · 版本说明与修注声明</h2>
 为明此本来路，是编注者特作如下三则说明：<br> 
 
 ### 一、版本依据说明
@@ -87,6 +87,7 @@ The Dao cannot be taught—it can only be remembered <br>
 不受训诂所为缚，不立门户之见，惟求返本契道。<br> 
 字词解释多借助 ChatGPT、DeepSeek 等 AI 工具，略经修改，章节配诗由 ChatGPT 所作。<br> 
 若有理解未逮、言辞失度，尚祈诸道友、方家学人不吝指正，是为厚德。<br> 
+
 <p><strong>【心印之语 · 松Song自铭】</strong><br>
 愿以寸心应道，不敢妄言老子，只是修己之记。<br> 
 
