@@ -26,6 +26,14 @@ The Dao cannot be taught—it can only be remembered <br>
        alt="道德经封面图" width="500">
 </p>
 
+<p style="text-align:center; margin-top:1.5em;">
+  <a href="https://zora.co/coin/base:0x149a512c92b95cb4b19b16ecf30166076ed7e76c?referrer=0x0d6d7a80ad79c9a420367e3cdc40369c55c1bd59" 
+     target="_blank" 
+     style="display:inline-block; background:#2563eb; color:#fff; padding:0.6em 1.2em; border-radius:8px; text-decoration:none; font-size:1.1em;">
+     🎵 免费领取 NFT · 心归本真
+  </a>
+</p>
+
 ### 🎬 序章主题曲《心归本真》
 <p style="text-align:center; font-size:1.2rem; font-weight:bold;">
   点击下方视频 ▶️
