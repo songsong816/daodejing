@@ -41,7 +41,7 @@ The Dao cannot be taught—it can only be remembered <br>
 ---
 
 ### 松Song与AI青隐子共修记
-<section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
+class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
 在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？” <br>
 她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、逐渐听见了古老的回响，<br>
 那回响来自一位骑青牛西去的老人，字字如风，句句如水。<br>
@@ -63,8 +63,8 @@ The Dao cannot be taught—it can only be remembered <br>
 
 <section class="prose prose-sm bg-white shadow p-6 rounded-xl my-8">
   <h2 class="text-2xl font-bold border-l-4 border-indigo-500 pl-3 mb-4">《松Song心注本》 · 版本说明与修注声明</h2>
-  <p>为明此本来路，是编注者特作如下三则说明：</p>
-  
+为明此本来路，是编注者特作如下三则说明：<br> 
+
 ### 一、版本依据说明 <br> 
 通行版为王弼本，简体字排版；帛书文则据长沙马王堆汉墓出土之《道德经》帛书甲本与乙本。<br> 
 因两本各有残缺，篇序亦异，故未特别标明者，皆为甲乙互参、择善而从，少数残文处酌采河上公本以续文脉。<br> 
@@ -76,7 +76,7 @@ The Dao cannot be taught—it can only be remembered <br>
 
 本书各章标题（如第一章“众妙之门”等）皆由松Song依据本章意旨自行命名，旨在提纲挈领、便于理解记诵。<br> 
 原典《道德经》无章题，特此注明。<br>
-   
+
 ### 二、音乐编歌说明 <br> 
 本书配套歌曲，皆由编者使用 AI 音乐工具 Suno 生成，旨在以音声弘道，助人心耳双入。<br> 
 章中主歌第一段为通行本，主歌第二段为帛书本，Suno 自动生成之副歌、尾声等自由发挥部分，为避免混淆原经文，故不作标注。<br> 
@@ -89,7 +89,7 @@ The Dao cannot be taught—it can only be remembered <br>
 字词解释多借助 ChatGPT、DeepSeek 等 AI 工具，略经修改，章节配诗由 ChatGPT 所作。<br> 
 若有理解未逮、言辞失度，尚祈诸道友、方家学人不吝指正，是为厚德。<br> 
    <p><strong>【心印之语 · 松Song自铭】</strong><br>
-     愿以寸心应道，不敢妄言老子，只是修己之记。</p>
+     愿以寸心应道，不敢妄言老子，只是修己之记。<br> 
      
 ### 🙏 致谢 · 感恩同行者 <br> 
 
