@@ -110,22 +110,7 @@ The Dao cannot be taught—it can only be remembered <br>
 
 <h2 id="catalog">📚 道德经 81 章目录</h2>
 <ul>
-{% for n in (1..81) %}
-  {% assign num = n | prepend: "0" %}
-  {% if num.size > 2 %}
-    {% assign num = n %}
-  {% endif %}
-  <li>
-    <a href="/daodejing/chapters-new/{{ num }}.html">
-      第{{ num }}章
-    </a>
-  </li>
-{% endfor %}
-</ul>
-<p>
-
-<ul>
-<li><a href="https://songsong816.github.io/daodejing/chapters-new/01.html">第01章 众妙之门</a></li>
+<li><a href="https://songsong816.github.io/daodejing/chapters-new/01.html">第01章</a></li>
 <li><a href="https://songsong816.github.io/daodejing/chapters-new/02.html">第02章</a></li>
 <li><a href="https://songsong816.github.io/daodejing/chapters-new/03.html">第03章</a></li>
 </ul>
