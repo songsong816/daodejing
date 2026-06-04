@@ -143,7 +143,7 @@ SunoLinks
 
 第71章 圣人不病
 
-第72章 自爱不自贵
+第72章 自爱不自贵 https://suno.com/s/o7epeecqyF9YdNlM
 
 第73章 天网恢恢 https://suno.com/s/q9JNdnamsvSaBe26
 
