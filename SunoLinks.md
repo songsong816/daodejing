@@ -21,7 +21,7 @@ SunoLinks
 
 第09章 功遂身退
 
-第10章 玄德
+第10章 玄德 https://suno.com/s/NI3dU9sRw5E8t43y
 
 第11章 无之以为用 https://suno.com/s/FZGhCf87f5KNhRhe
 
