@@ -95,7 +95,7 @@ SunoLinks
 
 第46章 知足之足
 
-第47章 圣人不行而知
+第47章 圣人不行而知 https://suno.com/s/NMnkecGSM0Q256yM
 
 第48章 为学日益 为道日损 https://suno.com/s/ZWYKBz42FMxh3K90
 
