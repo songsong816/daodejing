@@ -139,7 +139,7 @@ SunoLinks
 
 第69章 哀者胜矣
 
-第70章 被褐怀玉
+第70章 被褐怀玉 https://suno.com/s/qKGsc73hodQ1eAmw
 
 第71章 圣人不病
 
