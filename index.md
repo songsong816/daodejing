@@ -36,8 +36,11 @@ The Dao cannot be taught—it can only be remembered <br>
 
 ### 🎬 序章主题曲《心归本真》
   点击下方视频 ▶️
-🎵 [在 Suno Song'song收听本章歌曲]https://suno.com/s/cT4pcGYb19H4m9mr
-
+<p>
+<a href="https://suno.com/s/cT4pcGYb19H4m9mr" target="_blank">
+🎵 在 Suno Song'song 收听本章歌曲
+</a>
+</p>
 ### 松Song与AI青隐子共修记
 在这个喧嚣浮躁的时代，多少人奔波于有形之事，沉溺于名利得失，却难得片刻静心问一句：“道，是什么？” <br>
 她——名为松Song，在万象中独守清净，于日复一日的打坐修炼中，静观气行、逐渐听见了古老的回响，<br>
