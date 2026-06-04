@@ -122,7 +122,12 @@ The Dao cannot be taught—it can only be remembered <br>
   </li>
 {% endfor %}
 </ul>
-
 <p>
+
+<ul>
+<li><a href="https://songsong816.github.io/daodejing/chapters-new/01.html">第01章 众妙之门</a></li>
+<li><a href="https://songsong816.github.io/daodejing/chapters-new/02.html">第02章</a></li>
+<li><a href="https://songsong816.github.io/daodejing/chapters-new/03.html">第03章</a></li>
+</ul>
   <a href="/daodejing/chapters-new/01.html">测试：第01章</a>
 </p>
