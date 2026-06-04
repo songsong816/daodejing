@@ -59,7 +59,7 @@ SunoLinks
 
 第28章 复归于朴 https://suno.com/s/7sK5rH0BD1xthXPt
 
-第29章 圣人去甚
+第29章 圣人去甚 https://suno.com/s/rV2bP7EmUXpPS2Dq
 
 第30章 果而无骄 https://suno.com/s/kNDaqAHqNlR2Mq7C
 
