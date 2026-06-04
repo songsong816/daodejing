@@ -51,7 +51,7 @@ SunoLinks
 
 第24章 炊者不立
 
-第25章 道法自然
+第25章 道法自然 https://suno.com/s/MkJ8brjokSPrecpa
 
 第26章 静为躁君 https://suno.com/s/IYi3Pw441d3aO9uS
 
