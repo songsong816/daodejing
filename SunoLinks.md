@@ -105,7 +105,7 @@ SunoLinks
 
 第51章 是谓玄德
 
-第52章 袭常
+第52章 袭常 https://suno.com/s/7QzjfYe1eJ8v33J2
 
 第53章 盗夸 https://suno.com/s/B4TstKRQvtkS5Y1z
 
