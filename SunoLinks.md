@@ -131,7 +131,7 @@ SunoLinks
 
 第65章 玄德深矣
 
-第66章 天下莫能与之争
+第66章 天下莫能与之争 https://suno.com/s/GUDHXEoaoGSoAoim
 
 第67章 三宝 https://suno.com/s/WlhtGVOrw6MBnzZQ
 
