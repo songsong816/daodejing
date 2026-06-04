@@ -1,7 +1,9 @@
 SunoLinks
 《道德经 · 松Song心注本》歌曲总目录 作者：Song'song
 
-第01章 众妙之门 https://suno.com/s//cT4pcGYb19H4m9mr
+序言   心归本真 https://suno.com/s//cT4pcGYb19H4m9mr
+
+第01章 众妙之门 https://suno.com/s/Qa04JvXDZsAmyEwr
 
 第02章 无为之事
 
