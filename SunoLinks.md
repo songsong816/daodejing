@@ -111,7 +111,7 @@ SunoLinks
 
 第54章 以身观身 https://suno.com/s/Xk64pUah4QqTIF0q
 
-第55章 知常曰明
+第55章 知常曰明 https://suno.com/s/JZkkZDK92MzEgU0o
 
 第56章 玄同 https://suno.com/s/xO2EIcet5iIsVvKH
 
