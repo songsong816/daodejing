@@ -112,9 +112,11 @@ The Dao cannot be taught—it can only be remembered <br>
 <ul>
 {% for n in (1..81) %}
   {% assign num = n | prepend: "0" %}
-  {% if num.size > 2 %}{% assign num = n %}{% endif %}
+  {% if num.size > 2 %}
+    {% assign num = n %}
+  {% endif %}
   <li>
-    <a href="{{ '/chapters-new/' | append: num | append: '.html' | relative_url }}">
+    <a href="/daodejing/chapters-new/{{ num }}.html">
       第{{ num }}章
     </a>
   </li>
