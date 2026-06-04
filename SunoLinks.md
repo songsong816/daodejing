@@ -133,7 +133,7 @@ SunoLinks
 
 第66章 天下莫能与之争
 
-第67章 三宝
+第67章 三宝 https://suno.com/s/WlhtGVOrw6MBnzZQ
 
 第68章 是谓天 https://suno.com/s/YWXWH8WMldYeOiQ1
 
