@@ -55,7 +55,7 @@ SunoLinks
 
 第26章 静为躁君
 
-第27章 要妙
+第27章 要妙 https://suno.com/s/91NvFehYZEdjgw1y
 
 第28章 复归于朴 https://suno.com/s/7sK5rH0BD1xthXPt
 
