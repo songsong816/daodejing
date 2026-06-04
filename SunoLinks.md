@@ -49,7 +49,7 @@ SunoLinks
 
 第23章 自然
 
-第24章 炊者不立
+第24章 炊者不立 https://suno.com/s/rsApLfrmLaFdFJ9f
 
 第25章 道法自然 https://suno.com/s/MkJ8brjokSPrecpa
 
