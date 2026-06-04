@@ -47,7 +47,7 @@ SunoLinks
 
 第22章 圣人抱一
 
-第23章 自然
+第23章 自然 https://suno.com/s/zBtXUz6AjUMpwizs
 
 第24章 炊者不立 https://suno.com/s/rsApLfrmLaFdFJ9f
 
