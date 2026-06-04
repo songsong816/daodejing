@@ -17,7 +17,7 @@ SunoLinks
 
 第07章 天长地久 https://suno.com/s/5WgtQ33ob53oiYzY
 
-第08章 上善若水
+第08章 上善若水 https://suno.com/s/StBB5n4gAOIGqqCp
 
 第09章 功遂身退 https://suno.com/s/IxWL1mlVi17Pb45W
 
