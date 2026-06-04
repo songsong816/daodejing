@@ -3,8 +3,6 @@ layout: default
 title: "道德经·松Song心注本|Tao Te Ching Commentary"
 keywords: "道德经心注本,通行本,帛书本,Song’song,Tao Te Ching"
 author: "松Song & AI青隐子 "
-permalink: /index.md
-
 ---
 
 ## 《道德经 · 松Song心注本》 Daodejing (Tao Te Ching) · Song’song Inner Commentary Edition
