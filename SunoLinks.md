@@ -141,7 +141,7 @@ SunoLinks
 
 第70章 被褐怀玉 https://suno.com/s/qKGsc73hodQ1eAmw
 
-第71章 圣人不病
+第71章 圣人不病 https://suno.com/s/4w5kvSkJAxzlmCpZ
 
 第72章 自爱不自贵 https://suno.com/s/o7epeecqyF9YdNlM
 
