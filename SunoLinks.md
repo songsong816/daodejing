@@ -53,7 +53,7 @@ SunoLinks
 
 第25章 道法自然
 
-第26章 静为躁君
+第26章 静为躁君 https://suno.com/s/IYi3Pw441d3aO9uS
 
 第27章 要妙 https://suno.com/s/91NvFehYZEdjgw1y
 
